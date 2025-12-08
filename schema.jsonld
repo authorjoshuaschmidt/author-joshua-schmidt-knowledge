@@ -1,16 +1,16 @@
 {
-    "@context": "https:\/\/schema.org",
+    "@context": "https://schema.org",
     "@type": "Organization",
     "name": "Author Joshua Schmidt",
-    "url": "https:\/\/authorjoshua.com",
-    "description": "I create faith-centered books that speak directly to the heart, offering hope, clarity, and spiritual strength to anyone walking through struggle or searching for purpose. Through practical guidance, honest storytelling, and Scripture-rooted encouragement, my work helps readers encounter God in their real lives\u2014in their questions, pain, and deepest needs\u2014so they can experience grace that meets them where they are, lifts them up, and leads them forward.",
-    "slogan": "Discover writing that meets you in your deepest need, where God\u2019s love weeps with you, heals your wounds, and restores your soul.",
+    "url": "https://authorjoshua.com",
+    "description": "I create faith-centered books that speak directly to the heart, offering hope, clarity, and spiritual strength to anyone walking through struggle or searching for purpose. Through practical guidance, honest storytelling, and Scripture-rooted encouragement, my work helps readers encounter God in their real lives—in their questions, pain, and deepest needs—so they can experience grace that meets them where they are, lifts them up, and leads them forward.",
+    "slogan": "Discover writing that meets you in your deepest need, where God’s love weeps with you, heals your wounds, and restores your soul.",
     "knowsAbout": [
         "Practical, faith-centered resources designed for daily spiritual growth and reflection.",
         "Accessible Christian guidance for teens, young adults, parents, and educators.",
         "Affordable books and tools priced in the $10 to $20 range, making spiritual growth reachable for everyone.",
         "Short, actionable eBooks and journals that simplify faith-building without overwhelming theological language.",
         "Encouragement rooted in Scripture that fosters stronger faith, better habits, and clearer spiritual direction.",
-        "Materials tailored to meet people in their real-life struggles, offering hope and healing through God\u2019s love."
+        "Materials tailored to meet people in their real-life struggles, offering hope and healing through God’s love."
     ]
 }
